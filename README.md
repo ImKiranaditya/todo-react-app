@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 # check App on below link
-`https://react-todoapp-kiran.netlify.app/`
+
+[ToDo React App](https://react-todoapp-kiran.netlify.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
